@@ -1,0 +1,4 @@
+*.s
+*.txt
+
+!file4.txt
